@@ -1,10 +1,10 @@
 <h1>About me</h1>
 <div>
-<p><strong>Hi, I'm Kayan 👋 </strong><br> I started with my studies in Mathematics (Number Theory and Real Analysis) at the age of 15 and from there I ended up in the field of <b>Cryptology</b>, where I intend to pursue a professional career. By chance, I had interests and independently studied some areas such as Set Theory, Mathematical Logic and Computational Complexity. Today, I intend to pursue a career in <b>Information Security</b>, however I still intend to contribute academically to the areas.<br> 
- I have a [Youtube](https://www.youtube.com/c/kayann) channel where I make videos about Cryptology and everything related to Web Security.
+<p><strong>Hi, I'm Kayan 👋 </strong><br> I started with my studies in Mathematics (Number Theory and Real Analysis) at the age of 15 and from there I ended up in the field of <b>Cryptology</b>, where I intend to pursue a professional career. By chance, I had interests and independently studied some areas such as Set Theory, Mathematical Logic and Computational Complexity. Today, I intend to pursue a career in <b>Information Security</b>, however I still intend to contribute academically to the areas. I have a Youtubechannel where I make videos about Cryptology and everything related to Web Security.
  </p><br>
-- ⚡ I’m currently studying Logic and Automata Theory <br>
-- 💬 Ask me about Cryptography (Web Security) or any related stuff<br>
+ 
+⋅⋅* ⚡ I’m currently studying Logic and Automata Theory <br>
+⋅⋅* 💬 Ask me about Cryptography (Web Security) or any related stuff<br>
  
 </div>
 
