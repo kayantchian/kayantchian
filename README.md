@@ -1,7 +1,9 @@
 <h1>About me</h1>
- Hi, I'm Kayan 👋
-- ⚡ I’m currently studying Logic and Automata Theory
-- 💬 Ask me about Cryptography (Web Security) or any related stuff...>
+<div>
+ <p><strong>Hi, I'm Kayan 👋 </strong></p><br>
+- ⚡ I’m currently studying Logic and Automata Theory <br>
+- 💬 Ask me about Cryptography (Web Security) or any related stuff...><br>
+</div>
 
 ---
 
