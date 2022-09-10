@@ -14,3 +14,6 @@
 <a href="https://www.facebook.com/kayan.tchian/"><img height="30" src="https://github.com/kayantchian/kayantchian/blob/main/img/facebook.png?raw=true"></a>
 </p>
 
+---
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
