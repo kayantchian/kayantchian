@@ -1,8 +1,9 @@
-<img align="right" height="590em" src="https://github.com/kayantchian/kayantchian/blob/main/img/github--card.jpg?raw=true"/>
-<h1 align="left">About me</h1>
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/kayantchian/6a7742d44105420e086f35ab021f9da1/raw/22179e5a23bd6472b48036f11ac0d9ed30b90164/headercard.svg"/>
 <div align="left">
+<h1>About me</h1>
 <h2> Hi, I'm Kayan <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><h2><br>
-<p align="left">I started with my studies in Mathematics (Number Theory and Real Analysis) at the age of 15 and from there I ended up in the field of <b>Cryptology</b>, where I intend to pursue a professional career. By chance, I had interests and independently studied some areas such as Set Theory, Mathematical Logic and Computational Complexity. Today, I intend to pursue a career in <b>Information Security</b>, however I still intend to contribute academically to the areas. I have a Youtubechannel where I make videos about Cryptology and everything related to Web Security.
+<h3>I started with my studies in Mathematics (Number Theory and Real Analysis) at the age of 15 and from there I ended up in the field of <b>Cryptology</b>, where I intend to pursue a professional career. By chance, I had interests and independently studied some areas such as Set Theory, Mathematical Logic and Computational Complexity. Today, I intend to pursue a career in <b>Information Security</b>, however I still intend to contribute academically to the areas. I have a Youtubechannel where I make videos about Cryptology and everything related to Web Security.</h3>
  </p><br>
  
 * ⚡ I’m currently studying Logic and Automata Theory <br>
