@@ -18,7 +18,7 @@ Hi, I'm Kayan! <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6
 
 <div align="center">
 <img height="40px" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img height="40px" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img height="40px" alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img height="40px" alt="For my penetration testings" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
 
