@@ -3,13 +3,14 @@
 <div align="left">
 <h1>About me</h1>
 <h3>
-Hi, I'm Kayan! <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"><br> I am a Bachelor of Statistics student with a keen interest in Cryptology and Security Protocols. Here, you'll find my projects related to this field. I have a Youtube channel where I make videos about Cryptology and everything related to Web Security.</h3>
- </p><br>
+Hi, I'm Kayan! <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"><br> 
+I have a Bachelor's in Statistics, with a primary interest in Data Analysis and AI, and a keen interest in Cryptography and Security Protocols. You'll also find my projects related to these fields here. I have a YouTube channel where I create videos about Cryptology and everything related to Web Security.</h3>
+</p><br>
  
-* ⚡ I’m currently studying Theory of Formal Languages <br>
-* 💬 Ask me about Cryptography (Web Security) or any related stuff<br>
-* 🎮 I love playing very realistic FPS 
-* 📖 I'm also interested in Computer Forensics <br>
+* ⚡ I’m currently studying Data Analysis <br>
+* 💬 Ask me about Cryptography (Web Security) or any related topics<br>
+* 🎮 I play realistic FPS simulation games to pass the time<br>
+* 📖 I'm also interested in studying Economics as a hobby <br>
 </div>
 
 ---
