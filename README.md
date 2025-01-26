@@ -1,7 +1,7 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/kayantchian/6a7742d44105420e086f35ab021f9da1/raw/22179e5a23bd6472b48036f11ac0d9ed30b90164/headercard.svg"/>
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/kayantchian/b61203c173619e2c85e6e0af5545d3b6/raw/9ded163520814948a443acc4cd7b1a2c226d335f/card.svg"/>
 <div align="left">
-<h1>About me</h1>
+<h1 style="border-bottom: none;">About me</h1>
 <h3>
 Hi, I'm Kayan! <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"><br> 
 I have a Bachelor's in Statistics, with a primary interest in Data Analysis and AI, and a keen interest in Cryptography and Security Protocols. You'll also find my projects related to these fields here. I have a YouTube channel where I create videos about Cryptology and everything related to Web Security.</h3>
@@ -48,6 +48,6 @@ I have a Bachelor's in Statistics, with a primary interest in Data Analysis and 
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayantchian&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayantchian&show_icons=true&theme=gruvbox)
 
 </div>
