@@ -1,5 +1,5 @@
 
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/kayantchian/b61203c173619e2c85e6e0af5545d3b6/raw/9ded163520814948a443acc4cd7b1a2c226d335f/card.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/kayantchian/b61203c173619e2c85e6e0af5545d3b6/raw/9ded163520814948a443acc4cd7b1a2c226d335f/card.svg"/>
 <div align="left">
 <h1 style="border-bottom: none;">About me</h1>
 <h3>
