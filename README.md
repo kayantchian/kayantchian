@@ -48,6 +48,6 @@ I have a Bachelor's in Statistics, with a primary interest in Data Analysis and 
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayantchian&show_icons=true&theme=tokyonight)
 
 </div>
