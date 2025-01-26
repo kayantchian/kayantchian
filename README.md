@@ -15,10 +15,18 @@ I have a Bachelor's in Statistics, with a primary interest in Data Analysis and 
 <h3 style="font-size: 4em; color: #FF9900; margin-bottom: 5px; font-weight: bold;">Skills</h3>
 
 <div align="center">
-<img height="40px" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img height="40px" alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img height="40px" alt="For my penetration testings" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img height="40px" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img height="40px" alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img height="40px" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img height="40px" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img height="40px" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img height="40px" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img height="40px" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img height="40px" alt="OpenSSL" src="https://img.shields.io/badge/OpenSSL-663399?style=for-the-badge&logo=openssl&logoColor=white"/>
+  <img height="40px" alt="Cryptography" src="https://img.shields.io/badge/Cryptography-009999?style=for-the-badge&logo=lock&logoColor=white"/>
+  <img height="40px" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
+
 
 <h3 style="font-size: 4em; color: #FF9900; margin-bottom: 5px; font-weight: bold;">Contact</h3>
 <div align="center">
